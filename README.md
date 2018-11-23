@@ -3,7 +3,7 @@
 ```hello, It's newbie here```
 
 
-![node js](https://user-images.githubusercontent.com/41541789/48941136-a55afa00-ef5d-11e8-9d97-4755a276ce2e.jpg)
+![default](https://user-images.githubusercontent.com/41541789/48941205-ee12b300-ef5d-11e8-8a50-07e531ff3d7d.jpg)
 
 
 ## Introduce
