@@ -1,5 +1,6 @@
-#신입개발자 김동현입니다! 
-hello, It's newbie here
+# 신입개발자 김동현입니다! 
+
+## hello, It's newbie here
 
 ## Introduce
 * name : 김동현
@@ -24,4 +25,9 @@ hello, It's newbie here
 
 > webOS 기반 화재 대피 안내시스템 // https://github.com/bClass1234/fireEvacuationSystem
 
-  ```제 12회 공개소프트웨어 개발자대회 본선진출작```
+  ``` 제 12회 공개소프트웨어 개발자대회 본선진출작 ```
+
+## Activity
+* 강원대학교(춘천) 컴퓨터과학과 전공
+* kh정보교육원 [NCS] 응용엔지니어 JAVA 개발자 과정 수료
+* 제 12회 공개소프트웨어 개발자대회 참여, 팀명 : B CLASS
