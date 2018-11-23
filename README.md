@@ -23,4 +23,5 @@ hello, It's newbie here
 #### node.js
 
 > webOS 기반 화재 대피 안내시스템 // https://github.com/bClass1234/fireEvacuationSystem
-  ```제 12회 공개소프트웨어 개발자대회 본선진출작```
+
+  ```제 12회 공개소프트웨어 개발자대회 본선진출작
