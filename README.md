@@ -1,6 +1,6 @@
 # 신입개발자 김동현입니다! 
 
-## hello, It's newbie here
+```hello, It's newbie here```
 
 ## Introduce
 * name : 김동현
