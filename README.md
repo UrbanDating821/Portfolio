@@ -2,6 +2,10 @@
 
 ```hello, It's newbie here```
 
+
+![node js](https://user-images.githubusercontent.com/41541789/48941136-a55afa00-ef5d-11e8-9d97-4755a276ce2e.jpg)
+
+
 ## Introduce
 * name : 김동현
 * birth : 1992.12.02
