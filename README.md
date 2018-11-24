@@ -1,15 +1,15 @@
 # 신입개발자 김동현입니다! 
 
-```hello, It's newbie here```
+```Hello, It's newbie here```
 
 
 ![default](https://user-images.githubusercontent.com/41541789/48941205-ee12b300-ef5d-11e8-8a50-07e531ff3d7d.jpg)
 
 
 ## Introduce
-* name : 김동현
-* birth : 1992.12.02
-* address : 경기도 구리시 이문안로
+* Name : 김동현
+* Birth : 1992.12.02
+* Address : 경기도 구리시 이문안로
 * E-mail : dhkim9294@gmail.com
 * Github : dhkim92
 
