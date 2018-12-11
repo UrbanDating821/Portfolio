@@ -11,7 +11,7 @@
 * Birth : 1992.12.02
 * Address : 경기도 구리시 이문안로
 * E-mail : dhkim9294@gmail.com
-* Github : dhkim92
+* Github : dhkim92 
 
 ``` 
 수학을 좋아하던 평범한 고등학생이 input, output이 뚜렷한 개발에 빠지게 되어 지금까지.
