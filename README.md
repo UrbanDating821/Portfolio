@@ -1,7 +1,7 @@
 # 더 편리한 세상 만들기, 개발자 김동현입니다!  
 
 ```Hello, It's newbie here```
-
+ 
 
 ![default](https://user-images.githubusercontent.com/41541789/48941205-ee12b300-ef5d-11e8-8a50-07e531ff3d7d.jpg)
 
