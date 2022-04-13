@@ -21,21 +21,21 @@
 
 ## Project 
 
-#### Java
+#### "Python,Rstudio,GIS,Tableau"
 
-> Win-win 기업용 채용 웹사이트 솔루션 // https://github.com/dhkim92/winwin
+> 업사이클링 기반 Re-Zero 어플 구현 // 
+> 빅데이터 분석을 통한 도심 내 PM 문제 해결 // 
 
-> Zaksim 작심삼십일 도전 도우미 웹사이트 // https://github.com/ksj71816/ZakSim
+> 텍스트 마이닝 기반 20대 대선 공약 시각화 // 
 
-> Zipdle(집들이) 인테리어 중개사이트 // https://github.com/dhkim92/zipdle
+> 농림축산식품 공공빅데이터 활용 경진대회 // 
 
-> THRMS 자바스윙 병원 예약프로그램 // https://github.com/dhkim92/THRMS
+> 동대문구 상권 분석 및 음식 업종 입지선정 //
 
-#### node.js
+> AWS DeepRacer Reward Function // 
 
-> webOS 기반 화재 대피 안내시스템 // https://github.com/bClass1234/fireEvacuationSystem
+> S-Dot 데이터를 활용한 서울시 기후문제 예측 //
 
-  ``` 제 12회 공개소프트웨어 개발자대회 본선진출작 ```
 
 ## Activity
 * 서울시립대학교 도시공학과 전공
