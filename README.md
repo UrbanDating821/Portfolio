@@ -31,8 +31,6 @@
 
 > 농림축산식품 공공빅데이터 활용 경진대회 // 
 
-> 동대문구 상권 분석 및 음식 업종 입지선정 //
-
 > AWS DeepRacer Reward Function // https://github.com/UrbanDating821/Portfolio/blob/master/Deepracer.ipynb
 
 > S-Dot 데이터를 활용한 서울시 기후문제 예측 //
