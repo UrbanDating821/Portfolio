@@ -29,20 +29,23 @@
 
 > 텍스트 마이닝 기반 20대 대선 공약 시각화 // 
 
-> 농림축산식품 공공빅데이터 활용 경진대회 // 
-
 > AWS DeepRacer Reward Function // https://github.com/UrbanDating821/Portfolio/blob/master/Deepracer.ipynb
 
 > S-Dot 데이터를 활용한 서울시 기후문제 예측 //
 
+> 도시데이터 센서 환경정보 기반의 금천구 폭염 취약지역 탐색 //
+
+> LH Compas 연수구 쇠퇴도심 활성화를 위한 시각화 분석 //
+
 
 ## Activity
-* 서울시립대학교 도시공학과 전공
+* 서울시립대학교 도시공학과 전공(학부3학년)
+* 도시환경경제연구실 소속 학부연구생(2022.03~현재)
 * LH Compas 연수구 쇠퇴도심 활성화를 위한 시각화 분석 참여(최우수상)
-* 
+* 서울시 IoT 공공데이터 활용 해커톤 참여(본선 진출)
 * 2021 상반기.하반기 도시데이터 창업 아이디어 공모전 참여(장려상) 
-* 빅데이터 동계캠프 머신러닝 기반 딥레이서 경진대회 2위
+* 빅데이터 동계캠프 머신러닝 기반 딥레이서 경진대회 (2위)
 
 
 ## Plan
-![default](https://github.com/UrbanDating821/Portfolio/blob/master/20220413_192409.png)
+
